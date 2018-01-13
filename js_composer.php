@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WPBakery Page Builder
-Plugin URI: http://vc.wpbakery.com
+Plugin URI: http://wpbakery.com
 Description: Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required.
 Version: 5.4.5
 Author: Michael M - WPBakery.com
